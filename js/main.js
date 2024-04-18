@@ -21,8 +21,6 @@ do {
 
 confirm ("Oferta del día ¡Diseño de Cejas! a tan solo $9.990.- Si quieres agendar presiona aceptar")
 
-
-
 } else {
     alert("Usuario y/o contraseña invalidas");
 
